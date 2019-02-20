@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{BA8115EC-C2E6-42A2-A1CF-53B57861377A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odec.CP.Server.Model.HtmlElements", "..\HtmlUtilities\Server\Model\odec.CP.Server.Model.HtmlElements\odec.CP.Server.Model.HtmlElements.csproj", "{2F6B4BA1-2D49-4759-9DB6-1D75BCDAFF94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odec.CP.Server.Model.HtmlElements", "..\src\Server\Model\odec.CP.Server.Model.HtmlElements\odec.CP.Server.Model.HtmlElements.csproj", "{84BCEA01-9C2C-4832-8093-4371BBA52545}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,29 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2F6B4BA1-2D49-4759-9DB6-1D75BCDAFF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F6B4BA1-2D49-4759-9DB6-1D75BCDAFF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F6B4BA1-2D49-4759-9DB6-1D75BCDAFF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F6B4BA1-2D49-4759-9DB6-1D75BCDAFF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BCEA01-9C2C-4832-8093-4371BBA52545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BCEA01-9C2C-4832-8093-4371BBA52545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BCEA01-9C2C-4832-8093-4371BBA52545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BCEA01-9C2C-4832-8093-4371BBA52545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2F6B4BA1-2D49-4759-9DB6-1D75BCDAFF94} = {BA8115EC-C2E6-42A2-A1CF-53B57861377A}
+		{84BCEA01-9C2C-4832-8093-4371BBA52545} = {BA8115EC-C2E6-42A2-A1CF-53B57861377A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4517CCE0-155D-4077-A0C6-F59E23D4B681}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 1
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://pirmosk.visualstudio.com/defaultcollection
-		SccProjectUniqueName0 = ..\\HtmlUtilities\\Server\\Model\\odec.CP.Server.Model.HtmlElements\\odec.CP.Server.Model.HtmlElements.csproj
-		SccProjectTopLevelParentUniqueName0 = odec.HtmlUtility.sln
-		SccProjectName0 = ../HtmlUtilities/Server/Model/odec.CP.Server.Model.HtmlElements
-		SccAuxPath0 = https://pirmosk.visualstudio.com/defaultcollection
-		SccLocalPath0 = ..\\HtmlUtilities\\Server\\Model\\odec.CP.Server.Model.HtmlElements
-		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 	EndGlobalSection
 EndGlobal

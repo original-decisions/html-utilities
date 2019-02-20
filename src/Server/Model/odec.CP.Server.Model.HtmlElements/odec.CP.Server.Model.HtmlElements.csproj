@@ -1,12 +1,4 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup Label="Globals">
-    <SccProjectName>%24/Original Decisions Solutions/OriginalDecisions.CP/HtmlUtilities/Server/Model/odec.CP.Server.Model.HtmlElements</SccProjectName>
-    <SccProvider>{4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}</SccProvider>
-    <SccAuxPath>https://pirmosk.visualstudio.com/defaultcollection</SccAuxPath>
-    <SccLocalPath>.</SccLocalPath>
-  </PropertyGroup>
-
   <PropertyGroup>
     <Description>Original decisions specific Html model for db.</Description>
     <Copyright>Original Decisions</Copyright>
