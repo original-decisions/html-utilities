@@ -1,8 +1,8 @@
 using NUnit.Framework;
 
-namespace Tests
+namespace HtmlUtility.Tester
 {
-    public class Tests
+    public class HtmlUtilitiesTester
     {
         [SetUp]
         public void Setup()
