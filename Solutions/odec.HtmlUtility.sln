@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{BA8115
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odec.CP.Server.Model.HtmlElements", "..\src\Server\Model\odec.CP.Server.Model.HtmlElements\odec.CP.Server.Model.HtmlElements.csproj", "{84BCEA01-9C2C-4832-8093-4371BBA52545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlUtility.Tester", "..\Tests\HtmlUtility.Tester\HtmlUtility.Tester.csproj", "{89EEA6E3-0846-4972-B422-54435894A457}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlUtility.Tester", "..\tests\HtmlUtility.Tester\HtmlUtility.Tester.csproj", "{89EEA6E3-0846-4972-B422-54435894A457}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
