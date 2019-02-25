@@ -44,6 +44,5 @@ steps:
   displayName: 'Add Tag(s) on Succeeded build'
   inputs:
     tags: |
-     Work Management
-     Core
+     Html Utils
      Succeeded
